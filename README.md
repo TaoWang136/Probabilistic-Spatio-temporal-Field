@@ -3,7 +3,7 @@
 
 ## 1. Overview
 
-This project builds on **Trajectron++** to implement a **vehicle–pedestrian interaction field** (人车交互场) framework.
+This project builds on **Trajectron++ (Salzmann et al. 2020)** to implement a **vehicle–pedestrian interaction field** (人车交互场) framework.
 
 Compared with the original Trajectron++ implementation, we modify the code so that the model outputs **parameters of trajectory distributions**, rather than only sampled trajectories.
 

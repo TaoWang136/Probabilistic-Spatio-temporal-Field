@@ -295,5 +295,16 @@ These parameters are subsequently used to reconstruct the full probabilistic tra
 
 3. Users wishing to fully reproduce the trajectory prediction stage should first run the modified Trajectron++ model to generate the missing `.pkl` files described above.
 
+
+
+
+## License Notice
+
+This source code is provided for academic research purposes only.
+
+Commercial use, redistribution for commercial purposes, incorporation into commercial products or services, or any other commercial exploitation of this code is strictly prohibited without prior written permission from the copyright holder.
+
+By using this code, you agree to comply with these terms. Any unauthorized commercial use may result in legal action.
+
 4. All experiments were conducted on the FC and TJ datasets.
 

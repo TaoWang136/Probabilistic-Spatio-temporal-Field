@@ -295,7 +295,13 @@ These parameters are subsequently used to reconstruct the full probabilistic tra
 
 3. Users wishing to fully reproduce the trajectory prediction stage should first run the modified Trajectron++ model to generate the missing `.pkl` files described above.
 
+4. All experiments were conducted on the FC and TJ datasets.
 
+5. Due to copyright and data licensing restrictions, we are not authorized to redistribute the original trajectory data used in this project.
+
+Please download the SinD dataset from its official source and obtain any required permissions from the dataset provider. After downloading the raw trajectory data, preprocess it using the same data processing pipeline provided by Trajectron++ before running our code.
+
+This repository does not include any original trajectory data.
 
 
 ## License Notice
@@ -306,5 +312,4 @@ Commercial use, redistribution for commercial purposes, incorporation into comme
 
 By using this code, you agree to comply with these terms. Any unauthorized commercial use may result in legal action.
 
-4. All experiments were conducted on the FC and TJ datasets.
 

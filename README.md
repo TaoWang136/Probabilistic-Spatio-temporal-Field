@@ -16,7 +16,7 @@ For each prediction step, the model provides the parameters of a **25-component 
 These parameters are then used to construct a **probabilistic spatio-temporal field** and to visualize and analyze interaction risk.
 
 ---
-
+![Interaction Field](interaction_field.jpg)
 ## 2. Project Structure and Data
 
 The main directory for experiments is:
